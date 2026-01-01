@@ -6,7 +6,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<StartupObject>DelegateProgram.MyProgram</StartupObject>
-	<StartupObject>DelegateProgram.EventHandlerProgram</StartupObject>
   </PropertyGroup>
 
 </Project>
